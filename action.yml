@@ -1,0 +1,6 @@
+name: "Push notification"
+description: "Triggers a Private Message on  Whatsapp  when code is pushed in the main branch"
+author: "sanjana"
+branding:
+  icon: message-square
+  color: blue
